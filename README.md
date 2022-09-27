@@ -45,6 +45,9 @@ I will be doing my best to divide my build schedule quarterly to get all four po
 # Build
 
 ## Pod.1
+
+Basing My design off of [Kreutinger puppets Pod.1 design](https://www.youtube.com/watch?v=Nt79_D4vAIA) 
+![alt text]()
 ## Pod.2
 ## Pod.3
 ## Pod.4
