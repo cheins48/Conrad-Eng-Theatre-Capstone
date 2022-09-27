@@ -47,7 +47,15 @@ I will be doing my best to divide my build schedule quarterly to get all four po
 ## Pod.1
 
 Basing My design off of [Kreutinger puppets Pod.1 design](https://www.youtube.com/watch?v=Nt79_D4vAIA) 
-![alt text]()
+
+![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/Capture.PNG?raw=true)
+
+### Build Updates
+
+I have made cardboard linkages to prototype, they work great but still have a few problems.  theyre all a little more than 100mm wide when resting which i need to trim down if theyre gonna fit in a PVC pipe.  I'm also not happy with the arch, I want a more natural lean forward that Kreutinger's design has.
+
+![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/ezgif-4-ee58b607fb.gif?raw=true)
+
 ## Pod.2
 ## Pod.3
 ## Pod.4
