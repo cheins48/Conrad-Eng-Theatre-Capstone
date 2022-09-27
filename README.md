@@ -1,1 +1,42 @@
 # Conrad-Eng-Theatre-Capstone
+
+## Project pitch
+[Project Presentation](https://docs.google.com/presentation/d/1iXmvU82mosjtG8wZw2aXcDX5GKvR7SZYwwKy2Fu6weY/edit#slide=id.gee834ea57d_0_261)
+
+As of right now, the theatre program is planning a production of little shop of horrors at the end of the year. This is a very technically heavy performance with a dynamic set, interesting characters and, most importantly, a giant man eating alien plant.  My capstone project this year will be to make all of the plant puppets necessary to bring this production to life.
+
+![alt text](https://i.pinimg.com/600x315/9f/67/97/9f67975b3585d1a3a8ef9df3b01a4497.jpg)
+
+### Requirements 
+
+-Have 4 separate pods
+
+    -1st pod must have a “wilting” feature to show its dying and be hand held.
+
+    -2nd must be slightly larger, and have more vibrant colors to indicate it growing
+
+    -3rd must be a full wearable costume that can be worn by an actor
+
+    -4th will be made to have the ability to “eat ” someone whole and be built in tandem with the set
+
+-Have interactable props by may 10th
+
+### Wants
+
+
+-Integrate “bioluminescence” with code
+
+-Traumatize at LEAST one small child
+
+
+## Build Schedule 
+
+I will be doing my best to divide my build schedule quarterly to get all four pods done.  I will also be delegateing a lot of work to Pd.3 Tech to account for the massive workload and my lack of a partner.  I will also be building the puppets in order of priority
+
+1.  Pod.1, because I can finish it the fastest without consulting set design or pd.3 tech
+
+2.  Pod.4, because its the most technical design
+
+3.  Pod.3, because I want pod.4 done first
+
+4.  Pod.2, because it can be entirley cut out of the play
