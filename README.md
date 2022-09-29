@@ -1,6 +1,9 @@
 # Conrad-Eng-Theatre-Capstone
 
 ## Project pitch
+
+
+
 [Project Presentation](https://docs.google.com/presentation/d/1iXmvU82mosjtG8wZw2aXcDX5GKvR7SZYwwKy2Fu6weY/edit#slide=id.gee834ea57d_0_261)
 
 As of right now, the theatre program is planning a production of little shop of horrors at the end of the year. This is a very technically heavy performance with a dynamic set, interesting characters and, most importantly, a giant man eating alien plant.  My capstone project this year will be to make all of the plant puppets necessary to bring this production to life.
@@ -29,7 +32,11 @@ As of right now, the theatre program is planning a production of little shop of 
 -Traumatize at LEAST one small child
 
 
-## Build Schedule 
+
+
+<details><summary>build schedule</summary>
+
+
 
 I will be doing my best to divide my build schedule quarterly to get all four pods done.  I will also be delegateing a lot of work to Pd.3 Tech to account for the massive workload and my lack of a partner.  I will also be building the puppets in order of priority
 
@@ -41,10 +48,11 @@ I will be doing my best to divide my build schedule quarterly to get all four po
 
 4.  Pod.2, because it can be entirley cut out of the play
 
+</details>
 
 # Build
 
-## Pod.1
+<details><summary>Pod.1</summary>
 
 Basing My design off of [Kreutinger puppets Pod.1 design](https://www.youtube.com/watch?v=Nt79_D4vAIA) 
 
@@ -56,6 +64,16 @@ I have made cardboard linkages to prototype, they work great but still have a fe
 
 ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/ezgif-4-ee58b607fb.gif?raw=true)
 
-## Pod.2
-## Pod.3
-## Pod.4
+</details>
+
+<details><summary>Pod.2</summary>
+
+</details>
+
+<details><summary>Pod.3</summary>
+
+</details>
+
+<details><summary>Pod.4</summary>
+
+</details>
