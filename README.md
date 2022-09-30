@@ -53,6 +53,7 @@ I will be doing my best to divide my build schedule quarterly to get all four po
 <details><summary>Resources</summary>
 
 [kreutinger puppets](https://www.youtube.com/playlist?list=PLeYjVOvIFYr-4883if9ebeU3kZOiVAyfp)
+    
 [instructables, sketches](https://www.instructables.com/Building-Audrey-II-Introduction/)
 
 
