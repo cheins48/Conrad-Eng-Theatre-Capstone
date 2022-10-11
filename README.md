@@ -75,10 +75,15 @@ I have made cardboard linkages to prototype, they work great but still have a fe
     
     10/11/2022
     
- I have fully modeled the "pot" that holds the linkages and houses the plant. the pot is modeled after 4in PVC that mr miller generously donated.  I had to fiddle with the lengths of each of the linkages to allow it to fit inside of the pot.  I also made a failed prototype for the head that im not even gonna discuss because of how little sense it made
+I have fully modeled the "pot" that holds the linkages and houses the plant. the pot is modeled after 4in PVC that mr miller generously donated.  I had to fiddle with the lengths of each of the linkages to allow it to fit inside of the pot.  I also made a failed prototype for the head that im not even gonna discuss because of how little sense it made
+   
+![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/Assembly1.PNG?raw=true)
+
     
 
-    the pot consists of 2 rings that rest on the interior, the bottom one will be screwed in place while the top one will be free spinning to allow for articulation and more poseability for the actor. they should both be finished priniting by the end of this period.
+the pot consists of 2 rings that rest on the interior, the bottom one will be screwed in place while the top one will be free spinning to allow for articulation and more poseability for the actor. they should both be finished priniting by the end of this period.
+
+![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/assembly2.PNG?raw=true)
 
 </details>
 
