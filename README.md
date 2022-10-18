@@ -82,8 +82,17 @@ I have fully modeled the "pot" that holds the linkages and houses the plant. the
 the pot consists of 2 rings that rest on the interior, the bottom one will be screwed in place while the top one will be free spinning to allow for articulation and more poseability for the actor. they should both be finished priniting by the end of this period.
 
 ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/assembly2.PNG?raw=true) 
+
+
+    10/18/2022
+ this week I printed out the two rings and put them inside the 4in pipe.  right now the achor ring is held in with temporary 4:40 screws, but will be replaced with heated inserts.  the turning is smooth and im happy with the articulation with the linkages.  the biggest issue right now is actually fitting my hand into the pot and grabbing the bottom linkages, currently i have two offcut linkages just sorta dangaling in there, but i need a more ergonomic solution for an actor.  current solution seams to be a string with a loop on the end, but more experimenting is required.
+ 
+ ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/ezgif-2-d8fb0f2d8a.gif?raw=true) 
+
+ 
 </details>
 
+    
 <details><summary>Pod.2</summary>
 
 </details>
