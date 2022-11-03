@@ -88,7 +88,11 @@ the pot consists of 2 rings that rest on the interior, the bottom one will be sc
  this week I printed out the two rings and put them inside the 4in pipe.  right now the achor ring is held in with temporary 4:40 screws, but will be replaced with heated inserts.  the turning is smooth and im happy with the articulation with the linkages.  the biggest issue right now is actually fitting my hand into the pot and grabbing the bottom linkages, currently i have two offcut linkages just sorta dangaling in there, but i need a more ergonomic solution for an actor.  current solution seams to be a string with a loop on the end, but more experimenting is required.
  
  ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/ezgif-2-d8fb0f2d8a.gif?raw=true) 
-
+ 
+    11/3/2022
+   this week I got the top jaw working.  I solved my previous issue of the bottom linkages by attaching them at the very ends of either one, creating a sort of V that I can easily grab the bottom of.  the top jaw was initially designed with the intention of having a spring or rubber band on the inside pulling it shut, however it proved to be difficult to open with the string, and the spring would often open the mouth because it was to long.  having a loose connection and just allowing the top jaw to close using the force of gravity proved to work perfectly fine.  the linkage for the top jaw kept intersecting with the nuts on the supporting linkages, preventing it from closing all the way, so i opted to use a rat tail file and just sanded out a groove for the nuts to rest rather than redesign, recut, and reglue the whole piece again.  
+   
+ ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true) 
  
 </details>
 
