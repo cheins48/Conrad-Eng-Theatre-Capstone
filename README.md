@@ -107,6 +107,8 @@ the pot consists of 2 rings that rest on the interior, the bottom one will be sc
     11/9/2022
    with the Pod.1 design having most all functional aspects taken care of, the time has come to pass my work onto pd.3 tech for them to work on detail work.  The design process for pod.4 has begun and im shifting my full focus to actuallising it.  after lots of research I have decided to base my design off of [feathurwurms](https://www.instructables.com/Building-Audrey-II-Phase-IV/) genius puppet.  I will be attaching the notes and images I found most useful from featherwurms instructable.
     
+<details><summary>research images</summary>
+    
 ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/F5ODJBGHD4VC5LC.jpg?raw=true) 
     
 ![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/main/FZM9RRUHD4VFS8H.webp)
@@ -114,6 +116,10 @@ the pot consists of 2 rings that rest on the interior, the bottom one will be sc
 ![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/main/F7QW5PPHD4VLXJ2.webp)
     
 ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/WIN_20221109_11_35_19_Pro.jpg?raw=true)
+    
+</details>
+        
+the design is very human.  the frame is simply 2 pipes attached to a simple ramp at the bottom and a trapazoid with 2 eyelits at the top.  the top jaw is suspended by 2 strings attached to the eyelits on either side of the base frame to create a pivot point that the actor can easily move and manipulate.  suspending the bottom jaw is my current hangup.  making it stationary removes a lot of expression from the plant, as well as making it pottentially harder for an actor to get eaten.  but feathurwurms design apears to be using pure wizardry to hold it up.  my current solution (as seen in research image 4) is to replicate the top jaw fulcrum on the interior side of the top jaw.  my concern with this design is weight, and having potentiontial tangles with the rope.  mo rope, mo problems.  I have begun designing the ramp in CAD, but I plan on potentially using a kiddie slide instead, 1. because i can probably find one for free, and 2. because its fun. so i will not be posting my proggress on the CAD until I'm sure I will be using it.
     
 </details>
 
