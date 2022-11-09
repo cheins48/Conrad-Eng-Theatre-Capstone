@@ -95,7 +95,7 @@ the pot consists of 2 rings that rest on the interior, the bottom one will be sc
 [ ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/ezgif.com-gif-maker.gif?raw=true)]
     
     11/3/2022
-   this week I got the top jaw working.  I solved my previous issue of the bottom linkages by attaching them at the very ends of either one, creating a sort of V that I can easily grab the bottom of.  the top jaw was initially designed with the intention of having a spring or rubber band on the inside pulling it shut, however it proved to be difficult to open with the string, and the spring would often open the mouth because it was to long.  having a loose connection and just allowing the top jaw to close using the force of gravity proved to work perfectly fine.  the linkage for the top jaw kept intersecting with the nuts on the supporting linkages, preventing it from closing all the way, so i opted to use a rat tail file and just sanded out a groove for the nuts to rest rather than redesign, recut, and reglue the whole piece again.  
+   this week I got the top jaw working.  I solved my previous issue of the bottom linkages by attaching them at the very ends of either one, creating a sort of V that I can easily grab the bottom of.  the top jaw was initially designed with the intention of having a spring or rubber band on the inside pulling it shut, however it proved to be difficult to open with the string, and the spring would often open the mouth because it was to long.  having a loose connection and just allowing the top jaw to close using the force of gravity proved to work perfectly fine.  the linkage for the top jaw kept intersecting with the nuts on the supporting linkages, preventing it from closing all the way, so I opted to use a rat tail file and just sanded out a groove for the nuts to rest rather than redesign, recut, and reglue the whole piece again.  
    
  ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true) 
  
@@ -106,7 +106,15 @@ the pot consists of 2 rings that rest on the interior, the bottom one will be sc
 
     11/9/2022
    with the Pod.1 design having most all functional aspects taken care of, the time has come to pass my work onto pd.3 tech for them to work on detail work.  The design process for pod.4 has begun and im shifting my full focus to actuallising it.  after lots of research I have decided to base my design off of [feathurwurms](https://www.instructables.com/Building-Audrey-II-Phase-IV/) genius puppet.  I will be attaching the notes and images I found most useful from featherwurms instructable.
-
+    
+![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/F5ODJBGHD4VC5LC.jpg?raw=true) 
+    
+![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/main/FZM9RRUHD4VFS8H.webp)
+    
+![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/main/F7QW5PPHD4VLXJ2.webp)
+    
+![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/WIN_20221109_11_35_19_Pro.jpg?raw=true)
+    
 </details>
 
 <details><summary>Pod.3</summary>
