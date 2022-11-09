@@ -102,7 +102,10 @@ the pot consists of 2 rings that rest on the interior, the bottom one will be sc
 </details>
 
     
-<details><summary>Pod.2</summary>
+<details><summary>Pod.4</summary>
+
+    11/9/2022
+   with the Pod.1 design having most all functional aspects taken care of, the time has come to pass my work onto pd.3 tech for them to work on detail work.  The design process for pod.4 has begun and im shifting my full focus to actuallising it.  after lots of research I have decided to base my design off of [feathurwurms](https://www.instructables.com/Building-Audrey-II-Phase-IV/) genius puppet.  I will be attaching the notes and images I found most useful from featherwurms instructable.
 
 </details>
 
@@ -110,6 +113,6 @@ the pot consists of 2 rings that rest on the interior, the bottom one will be sc
 
 </details>
 
-<details><summary>Pod.4</summary>
+<details><summary>Pod.2</summary>
 
 </details>
