@@ -121,6 +121,11 @@ the pot consists of 2 rings that rest on the interior, the bottom one will be sc
         
 the design is very human.  the frame is simply 2 pipes attached to a simple ramp at the bottom and a trapazoid with 2 eyelits at the top.  the top jaw is suspended by 2 strings attached to the eyelits on either side of the base frame to create a pivot point that the actor can easily move and manipulate.  suspending the bottom jaw is my current hangup.  making it stationary removes a lot of expression from the plant, as well as making it pottentially harder for an actor to get eaten.  but feathurwurms design apears to be using pure wizardry to hold it up.  my current solution (as seen in research image 4) is to replicate the top jaw fulcrum on the interior side of the top jaw.  my concern with this design is weight, and having potentiontial tangles with the rope.  mo rope, mo problems.  I have begun designing the ramp in CAD, but I plan on potentially using a kiddie slide instead, 1. because i can probably find one for free, and 2. because its fun. so i will not be posting my proggress on the CAD until I'm sure I will be using it.
     
+    11/15/22
+    
+  Ive decided to start with a 1:12 miniature proof of concept to get my scale and proportions right before making the full scale model. This week I made the frame and top jaw, next i will make the bottom jaw and work out any kinks.  the top jaw is very front heavy, maybe add nuts as counterweight?
+  
+  
 </details>
 
 <details><summary>Pod.3</summary>
