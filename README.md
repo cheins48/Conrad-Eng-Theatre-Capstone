@@ -125,6 +125,8 @@ the design is very human.  the frame is simply 2 pipes attached to a simple ramp
     
   Ive decided to start with a 1:12 miniature proof of concept to get my scale and proportions right before making the full scale model. This week I made the frame and top jaw, next i will make the bottom jaw and work out any kinks.  the top jaw is very front heavy, maybe add nuts as counterweight?
   
+  ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/ezgif.com-gif-maker.gif?raw=true)
+  
   
 </details>
 
