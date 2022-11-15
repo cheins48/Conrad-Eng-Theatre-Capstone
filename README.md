@@ -123,7 +123,7 @@ the design is very human.  the frame is simply 2 pipes attached to a simple ramp
     
     11/15/22
     
-  Ive decided to start with a 1:12 miniature proof of concept to get my scale and proportions right before making the full scale model. This week I made the frame and top jaw, next i will make the bottom jaw and work out any kinks.  the top jaw is very front heavy, maybe add nuts as counterweight?
+  Ive decided to start with a 1:12 miniature proof of concept to get my scale and proportions right before making the full scale model. This week I made the frame and top jaw, next i will make the bottom jaw and work out any kinks.  the top jaw is very front heavy, maybe add nuts as counterweight?  The base frame  currently stands at 6-7 inches tall, this may be an inch or two to big. this could cause problems for the bottom jaw opening enough to allow an actor to get eaten, however i have no way of knowing if this an actual issue until i attach the bottom jaw. the proportions look nearly perfect, and the top jaw has no issues with collidening with the top of the frame and at full scale, a 7 foot tall plant is bound to look intimidateing. 
   
   ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/ezgif.com-gif-maker.gif?raw=true)
   
