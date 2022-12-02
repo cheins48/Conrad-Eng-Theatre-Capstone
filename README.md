@@ -127,6 +127,10 @@ the design is very human.  the frame is simply 2 pipes attached to a simple ramp
   
   ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/ezgif.com-gif-maker.gif?raw=true)
   
+    12/2/2022
+   I'm a little behind schedule, i was hoping to have begun on the full sized frame by december 1st, but due to illness I havent been able to come to school.  this week Ive made the proof of concept to a point that im happy with.  the lower jaw went through a few different designs, all of which were either to big or the laser cutter flat out refused to cut. but copying the frame of the top jaw with an egg like shape on the bottom ended up being the best design.  the elastic bands attaching the bottom jaw to the top were slightly to short, but this served to my advantage. by giving that small amount of resistance to pulling down the lower jaw i somehow made a fulcrum that opens both the bottom and top jaw.  i have no idea ho it works, but i hope to replicate this in my full scale build.  next week i plan on making the full sized frame hanger with materials in theatre tech.  
+   
+  ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/ezgif.com-gif-maker%20(5).gif?raw=true)
   
 </details>
 
