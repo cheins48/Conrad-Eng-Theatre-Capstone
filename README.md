@@ -132,6 +132,10 @@ the design is very human.  the frame is simply 2 pipes attached to a simple ramp
    
   ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/ezgif.com-gif-maker%20(5).gif?raw=true)
   
+    12/8/2022
+    
+ this week I finished the frame hangar.  I used an old box that fit the measurements roughly and left over 2 inch PVC from my no home but roped and stakes set.  the 2 legs of PVC are attached to the box useing hanging wire and a long screw, the screws stuck out a bit into the slide so i used a angle grinder to grind off the sharp points.  the top PVC piece fell down and hit my head pretty hard, I didnt secure it down because i wanted the whole design to be collapsable, but i think im going to PVC cement the upper "U" of the hanger and have the whole unit just be 2 pieces to avoid more injury.
+  
 </details>
 
 <details><summary>Pod.3</summary>
