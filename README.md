@@ -134,7 +134,11 @@ the design is very human.  the frame is simply 2 pipes attached to a simple ramp
   
     12/8/2022
     
- this week I finished the frame hangar.  I used an old box that fit the measurements roughly and left over 2 inch PVC from my no home but roped and stakes set.  the 2 legs of PVC are attached to the box useing hanging wire and a long screw, the screws stuck out a bit into the slide so i used a angle grinder to grind off the sharp points.  the top PVC piece fell down and hit my head pretty hard, I didnt secure it down because i wanted the whole design to be collapsable, but i think im going to PVC cement the upper "U" of the hanger and have the whole unit just be 2 pieces to avoid more injury. however, I cant do this if i plan on widening the box, as i would also have to lengthen the top pipe.
+ this week I finished the frame hangar.  I used an old box that fit the measurements roughly and left over 2 inch PVC from my no home but roped and stakes set.  the 2 legs of PVC are attached to the box useing hanging wire and a long screw, the screws stuck out a bit into the slide so I used a angle grinder to grind off the sharp points.  the top PVC piece fell down and hit my head pretty hard, I didnt secure it down because i wanted the whole design to be collapsable, but I think I'm going to PVC cement the upper "U" of the hanger and have the whole unit just be 2 pieces to avoid more injury. however, I cant do this if I plan on widening the box, as I would also have to lengthen the top pipe.
+ 
+    1/3/2023
+   
+  back from winter break and ready to work!  the search for metal to create the frame is becomming a massive problem, researching alternative materials (fiberglass??) may be my best course.  this week I plan on doing that, as well as widening the slide on the hangar frame. as it is, the box is a little more than a foot wide, just wide enough to go down with your arms over your head if you're a little guy.  if I widen the base ramp by .25-.5 of a foot it would accomedate for a cast member with a larger physique
   
    ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/IMG_20221208_110420.jpg?raw=true)
  
