@@ -153,6 +153,7 @@ the design is very human.  the frame is simply 2 pipes attached to a simple ramp
   3. very lightweight
  this weekend I will make an attempt to go to the dollar store to see the available options, for now though I have made a model of the top jaw in onshape that uses hula hoops that are 40in, 30in,and 20in wide.
  
+   ![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/main/IMG_2455-e1564783586760-768x1024.jpg)
    ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/IMG_2422-e1564783786558-768x1024.jpg?raw=true)
  
 </details>
