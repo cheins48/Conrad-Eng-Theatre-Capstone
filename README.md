@@ -144,6 +144,14 @@ the design is very human.  the frame is simply 2 pipes attached to a simple ramp
     1/3/2023
    
   back from winter break and ready to work!  the search for metal to create the frame is becomming a massive problem, researching alternative materials (fiberglass??) may be my best course.  this week I plan on doing that, as well as widening the slide on the hangar frame. as it is, the box is a little more than a foot wide, just wide enough to go down with your arms over your head if you're a little guy.  if I widen the base ramp by .25-.5 of a foot it would accomedate for a cast member with a larger physique
+  
+   1/6/2023
+  yesterday i widened the hangar frame and found a solution to my head material problem.  while researching other giant puppets I found [this dragon](https://cypt.ca/2019/08/05/a-blog-about-a-dragon-or-how-to-build-a-giant-dragon-puppet-in-858-easy-steps/) for shrek that used hula hoops for the body frame and simply wrapped it in fabric.  this would be a very easy material to use because its 
+  1. very cheap 
+  2. very big, 
+  3. very lightweight
+ this weekend I will make an attempt to go to the dollar store to see the available options, for now though I have made a model of the top jaw in onshape that uses hula hoops that are 40in, 30in,and 20in wide.
+ 
 </details>
 
 <details><summary>Pod.3</summary>
