@@ -167,6 +167,23 @@ the design is very human.  the frame is simply 2 pipes attached to a simple ramp
 
 <details><summary>Pod.3</summary>
 
+    2/9/2023
+
+sorry for the lack of updates, the wait for materials has stunted my momentum with pod.4.  however I have been working diligently on pod.3 with the help of dylan hensley.  using dylans 3d model for rough measurements (pictured below), 
+ ![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/c773009a3a1dd38bbc506a2d34494f0e9d7f55be/dylan%20pod.3.PNG)
+
+i used garbage and willpower to make the top jaw of pod.3
+
+ ![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/c773009a3a1dd38bbc506a2d34494f0e9d7f55be/20230208_134818.jpg)
+
+![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/c773009a3a1dd38bbc506a2d34494f0e9d7f55be/20230208_134812.jpg)
+
+![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/c773009a3a1dd38bbc506a2d34494f0e9d7f55be/20230208_134807.jpg)
+
+sorry for blurry photos
+ 
+ by the end of next week I will have the bottom jaw ready for paper mache and hopefully have the materials to begin work on pod.4
+
 </details>
 
 <details><summary>Pod.2</summary>
