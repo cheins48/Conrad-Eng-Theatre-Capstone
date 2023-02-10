@@ -183,6 +183,20 @@ i used garbage and willpower to make the top jaw of pod.3
 sorry for blurry photos
  
  by the end of next week I will have the bottom jaw ready for paper mache and hopefully have the materials to begin work on pod.4
+ 
+    2/10/2023
+    
+ made more proggress than i have in months yesterday!!!  I brought in about 100 zip ties and 20 hose clamps and framed out the entirity of the lower jaw useing the last of the "stems" we had donated during 3rd pd.  then i made a surprisingly effective hinge useing 3 zip ties attaching the top and bottom jaw together.
+ 
+![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/e3a1b685c7d2d7311e24abd34b481bea4f621d61/20230209_115025.jpg)
+
+![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/e3a1b685c7d2d7311e24abd34b481bea4f621d61/20230209_115106.jpg)
+
+![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/e3a1b685c7d2d7311e24abd34b481bea4f621d61/20230209_115052.jpg)
+
+I took some design concepts I used in pod.4 on the lower jaw, specifically the "U" that rests on the actors waist while wearing the head.  this creats a fulcrum that allows for the lower jaw to open when the top jaw opens.  making the entire puppet to be able to be operated with just one hand.  next i spent pd.5 putting chicken wire over the lower jaw, I found that using the craft wire to sort of stitch the wire to the frame instead of twisting hundreds of wires together was faster and sturdier.  I wish the overall shape were a little rounder, but i  think i can fix that with apolstry foam.
+
+![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/e3a1b685c7d2d7311e24abd34b481bea4f621d61/20230209_142336.jpg)
 
 </details>
 
