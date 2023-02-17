@@ -198,6 +198,16 @@ I took some design concepts I used in pod.4 on the lower jaw, specifically the "
 
 ![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/e3a1b685c7d2d7311e24abd34b481bea4f621d61/20230209_142336.jpg)
 
+    2/17/2023
+
+this week i began work on the grueling proccess of paper mache on pod.3.  I am using brown paper bags with a mixture of corn starch and white glue.  the cornstach takes much longer to dry, but the result is much more rigid and sturdy.  I currently have 1 layer on the top jaw, but im having problems wrapping the bags around the lip, I found using lots and lots of very tiny pieces works the best, however its very tedious.  the time it takes to cover 1 foot of the lip is equivilent to a whole layer on the checken wire.
+
+![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/afa0f5464f4abf56646126f2d3ca66cfbf88c4db/20230216_105018.jpg)
+
+![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/afa0f5464f4abf56646126f2d3ca66cfbf88c4db/20230216_105023.jpg)
+
+I had the whole jaw done, but when i flipped the unit over to get the underside the whole layer fell off before it dried, so i lost about 5 hours opf work because i got impatient
+
 </details>
 
 <details><summary>Pod.2</summary>
