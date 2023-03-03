@@ -213,3 +213,13 @@ I had the whole jaw done, but when i flipped the unit over to get the underside 
 <details><summary>Pod.2</summary>
 
 </details>
+
+<details><summary>set design</summary>
+
+3/3/2023
+With fiddler on the roof totally wrapped up, the official design stage for little shop is now underway.  I have spent the past 2 weeks designing the set for little shop based off the inventory we currently have in the scene shop.  I decided to base my design off of this free 3d model i found online: https://3dwarehouse.sketchup.com/model/u1087f4fe-1eb0-41b0-af47-0ddc24bbaaac/Little-Shop-of-Horrors-Stage-Design?hl=en 
+I took this model, and using measurements from prebuilt flats I made a rough 3d model of my set.  
+
+This dentire unit will be a "wagon unit" meaning it will be on casters to allow the central unit to ratate switching from an interior set to an exterior set.  This will allow for crew to set up whatever the next pod is on the interior set and seemlessly transition from scene to scene.  I have made a 1:24 scale cardboard mockup but cant get photos just now unfortunatly.
+
+</details>
