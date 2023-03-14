@@ -99,6 +99,15 @@ the pot consists of 2 rings that rest on the interior, the bottom one will be sc
    
  ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true) 
  
+    3/14/2023
+ getting started on detail work for pod.1.  I bought some EVA foam clay and sculpted the head on the puppet.  I used fake greenery and leaves for details, as well as a fake venus flytrap where the "eyes are." very happy with how it turned out, its pretty creepy looking. next steps are covering the linkages with vines, then making the pot look like a coffee tin.
+ 
+  ![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/157b30ca8209f18e854ba7dfa332b0dd0d960bf7/20230313_143933.jpg)
+  
+  ![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/157b30ca8209f18e854ba7dfa332b0dd0d960bf7/20230313_143948.jpg)
+  
+   ![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/157b30ca8209f18e854ba7dfa332b0dd0d960bf7/20230313_144005.jpg)
+ 
 </details>
 
     
