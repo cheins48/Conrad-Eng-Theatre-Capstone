@@ -217,6 +217,18 @@ this week i began work on the grueling proccess of paper mache on pod.3.  I am u
 
 I had the whole jaw done, but when i flipped the unit over to get the underside the whole layer fell off before it dried, so i lost about 5 hours opf work because i got impatient
 
+    3/17/2020
+    
+ Pod.3 is now ready to be rehearsed with!  The top jaw could use another layer of mache but its important that the actors have experience working with the puppet.  It could use a headrest to sit mor comfortably on the actor.
+
+![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/c6e4d931ebe71a457f9d66a2b676db85be5a59ba/20230323_145129.jpg)
+
+![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/c6e4d931ebe71a457f9d66a2b676db85be5a59ba/20230323_145314.jpg)
+
+![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/c6e4d931ebe71a457f9d66a2b676db85be5a59ba/20230323_145134.jpg)
+
+![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/c6e4d931ebe71a457f9d66a2b676db85be5a59ba/20230323_145318.jpg)
+
 </details>
 
 <details><summary>Pod.2</summary>
