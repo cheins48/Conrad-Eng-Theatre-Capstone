@@ -178,6 +178,15 @@ the design is very human.  the frame is simply 2 pipes attached to a simple ramp
    little hard to make proggress this week with the end of the quarter as well as snow and the new york trip.  never the less I worked out a rough design of the lower jaw made of hula hoops (pictured below) as well using another hula hoop to create the hole for actors to crawls through. I also made a shopping list, on it is 3x 40 in, 30 in, and 20 in hula hoops, as well as about 15 hose clamps. 
  
   ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/WIN_20230109_12_49_11_Pro.jpg?raw=true)
+    
+  Final photo dump
+![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/208ee01f5e65409ec7a4e903d95dc33605c095f1/20230523_100851.jpg)
+![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/208ee01f5e65409ec7a4e903d95dc33605c095f1/20230515_105444%20(1).jpg?raw=true)
+![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/208ee01f5e65409ec7a4e903d95dc33605c095f1/20230523_100808.jpg?raw=true)
+![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/208ee01f5e65409ec7a4e903d95dc33605c095f1/20230523_100843.jpg?raw=true)
+![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/208ee01f5e65409ec7a4e903d95dc33605c095f1/20230515_105501.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/208ee01f5e65409ec7a4e903d95dc33605c095f1/Screenshot_20230522-143053_Instagram.jpg)
+![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/208ee01f5e65409ec7a4e903d95dc33605c095f1/Screenshot_20230522-143101_Instagram.jpg)
   
 </details>
 
