@@ -49,8 +49,11 @@ I will be doing my best to divide my build schedule quarterly to get all four po
 3.  Pod.3, because I want pod.4 done first
 
 4.  Pod.2, because it can be entirley cut out of the play
-
 </details>
+
+### Final bill
+
+![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/454e4ccf0be96b0a105dd6a0cfa9788cce5d1850/Screenshot%202023-05-25%201.16.21%20PM.png)
 
 <details><summary>Resources</summary>
 
