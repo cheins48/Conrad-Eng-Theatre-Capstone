@@ -108,6 +108,14 @@ the pot consists of 2 rings that rest on the interior, the bottom one will be sc
   
    ![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/157b30ca8209f18e854ba7dfa332b0dd0d960bf7/20230313_144005.jpg)
  
+        5/25/23
+    final photo dump
+ ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/Screenshot%202023-05-22%2011.52.14%20AM.png?raw=true)
+ ![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/208ee01f5e65409ec7a4e903d95dc33605c095f1/Screenshot%202023-05-22%2011.52.56%20AM.png)
+ ![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/208ee01f5e65409ec7a4e903d95dc33605c095f1/Screenshot%202023-05-22%2011.55.05%20AM.png)
+ ![alt text](
+ ![alt text](
+ ![alt text](
 </details>
 
     
