@@ -113,9 +113,8 @@ the pot consists of 2 rings that rest on the interior, the bottom one will be sc
  ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/Screenshot%202023-05-22%2011.52.14%20AM.png?raw=true)
  ![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/208ee01f5e65409ec7a4e903d95dc33605c095f1/Screenshot%202023-05-22%2011.52.56%20AM.png)
  ![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/208ee01f5e65409ec7a4e903d95dc33605c095f1/Screenshot%202023-05-22%2011.55.05%20AM.png)
- ![alt text](
- ![alt text](
- ![alt text](
+ ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/Screenshot_20230424-105959_Instagram.jpg?raw=true)
+
 </details>
 
     
@@ -236,6 +235,17 @@ I had the whole jaw done, but when i flipped the unit over to get the underside 
 ![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/c6e4d931ebe71a457f9d66a2b676db85be5a59ba/20230323_145134.jpg)
 
 ![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/c6e4d931ebe71a457f9d66a2b676db85be5a59ba/20230323_145318.jpg)
+    
+    5/25/23
+ final photo dump
+  ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/20230414_123720.jpg?raw=true)
+  ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/20230414_123707.jpg?raw=true)
+  ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/20230414_123650.jpg?raw=true)
+  ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/20230414_120501.jpg?raw=true)
+  ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/20230523_101056%20(1).jpg?raw=true)
+  ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/20230523_102324.jpg?raw=true)
+  ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/20230523_095219.jpg?raw=true)
+  ![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/main/20230523_095032.jpg?raw=true)
 
 </details>
 
