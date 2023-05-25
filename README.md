@@ -4,7 +4,9 @@
 
 
 
-[Project Presentation](https://docs.google.com/presentation/d/1iXmvU82mosjtG8wZw2aXcDX5GKvR7SZYwwKy2Fu6weY/edit#slide=id.gee834ea57d_0_261)
+[Project pitch Presentation](https://docs.google.com/presentation/d/1iXmvU82mosjtG8wZw2aXcDX5GKvR7SZYwwKy2Fu6weY/edit#slide=id.gee834ea57d_0_261)
+
+[final product presentaion](https://www.canva.com/design/DAFjkzAITEU/yfj0UUKk02w_TuxTZ1ESnA/edit?utm_content=DAFjkzAITEU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 As of right now, the theatre program is planning a production of little shop of horrors at the end of the year. This is a very technically heavy performance with a dynamic set, interesting characters and, most importantly, a giant man eating alien plant.  My capstone project this year will be to make all of the plant puppets necessary to bring this production to life.
 
