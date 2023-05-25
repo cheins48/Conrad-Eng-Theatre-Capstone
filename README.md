@@ -260,6 +260,16 @@ I had the whole jaw done, but when i flipped the unit over to get the underside 
 
 <details><summary>Pod.2</summary>
 
+    photo dump
+    
+    5/25/23
+![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/208ee01f5e65409ec7a4e903d95dc33605c095f1/20230411_112729.jpg?raw=true)
+![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/208ee01f5e65409ec7a4e903d95dc33605c095f1/20230411_113217%20(1).jpg?raw=true)
+![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/208ee01f5e65409ec7a4e903d95dc33605c095f1/20230411_115802.jpg?raw=true)
+![alt text](https://github.com/cheins48/Conrad-Eng-Theatre-Capstone/blob/208ee01f5e65409ec7a4e903d95dc33605c095f1/20230413_141935.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/208ee01f5e65409ec7a4e903d95dc33605c095f1/Screenshot_20230522-124730_Instagram.jpg)
+![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/208ee01f5e65409ec7a4e903d95dc33605c095f1/Screenshot_20230522-124743_Instagram.jpg)
+![alt text](https://raw.githubusercontent.com/cheins48/Conrad-Eng-Theatre-Capstone/208ee01f5e65409ec7a4e903d95dc33605c095f1/Snapchat-1655697801%20(1).jpg)
 </details>
 
 <details><summary>set design</summary>
